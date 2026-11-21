@@ -1,0 +1,21 @@
+﻿query_id,question,gold_chunk_ids
+Q001,Thuật toán ML hoạt động tốt nhất khi nào?,dlbookvn_chap05.pdf_P19_C1
+Q002,Độ chinhs xác là gì ?,dlbookvn_chap05.pdf_P8_C2
+Q003,Các thuật toán học có giám sát là gì?,dlbookvn_chap05.pdf_P49_C1
+Q004,Thuật toán phân cụm K- Means hoạt động như thế nào?,dlbookvn_chap05.pdf_P60_C1
+Q005,Vấn đề mà ML thường gặp phải là gì,dlbookvn_chap05.pdf_P61_C3
+Q006,Xử lý ngôn ngữ tự nhiên là gì?,tom tat kien thuc tong quan NLP.pdf_P1_C1
+Q007,Quá triình phân tích hình thái trong xử lý ngôn ngữ tự nhiên bao gồm ?,tom tat kien thuc tong quan NLP.pdf_P1_C2
+Q008,Tính mơ hồ của ngôn ngữ là gì?,tom tat kien thuc tong quan NLP.pdf_P3_C1
+Q009,Ngữ pháp là?,tom tat kien thuc tong quan NLP.pdf_P4_C1
+Q010,Nhận dạng thực thể có tên là gì?,tom tat kien thuc tong quan NLP.pdf_P9_C2
+Q011,Độ thu hồi(Recall) là gì?,tom tat kien thuc tong quan NLP.pdf_P13_C1
+Q012,Ma trận nhầm lẫn là gì,tom tat kien thuc tong quan NLP.pdf_P13_C1
+Q013,Để xây dựng thuật toán ML cần loại thuật toán như thế nào ? ,dlbookvn_chap05.pdf_P14_C2
+Q014,Thách thức chính trong việc xây dựng thuật toán Học Máy là gì? ,dlbookvn_chap05.pdf_P16_C2
+Q015,Các thuật toán có giám sát được định nghĩa là?,dlbookvn_chap05.pdf_P49_C1
+Q016,Điểm giống và khác của SVM với hồi quy logistic là gì ?,dlbookvn_chap05.pdf_P50_C1
+Q017,Mục tiêu chinh của phân tích hình thái là gì,tom tat kien thuc tong quan NLP.pdf_P1_C2
+Q018, Thách thức trong Syntactic Processing ,tom tat kien thuc tong quan NLP.pdf_P5_C2
+Q019,"Trong NLP, ngữ pháp được biểu diễn như thế nào?",tom tat kien thuc tong quan NLP.pdf_P4_C1
+Q020,Các phương pháp khử mơ hồ nghĩa từ (Word Sense Disambiguation - WSD) ,tom tat kien thuc tong quan NLP.pdf_P8_C1
